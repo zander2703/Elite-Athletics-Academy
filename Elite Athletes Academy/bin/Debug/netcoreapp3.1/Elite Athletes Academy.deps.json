@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Elite Athletes Academy/1.0.0": {
+        "runtime": {
+          "Elite Athletes Academy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elite Athletes Academy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

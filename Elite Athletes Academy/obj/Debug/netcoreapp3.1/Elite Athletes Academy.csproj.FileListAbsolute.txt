@@ -1,0 +1,13 @@
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\bin\Debug\netcoreapp3.1\Elite Athletes Academy.exe
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\bin\Debug\netcoreapp3.1\Elite Athletes Academy.deps.json
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\bin\Debug\netcoreapp3.1\Elite Athletes Academy.runtimeconfig.json
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\bin\Debug\netcoreapp3.1\Elite Athletes Academy.runtimeconfig.dev.json
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\bin\Debug\netcoreapp3.1\Elite Athletes Academy.dll
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\bin\Debug\netcoreapp3.1\Elite Athletes Academy.pdb
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\obj\Debug\netcoreapp3.1\Elite Athletes Academy.csprojAssemblyReference.cache
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\obj\Debug\netcoreapp3.1\Elite Athletes Academy.AssemblyInfoInputs.cache
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\obj\Debug\netcoreapp3.1\Elite Athletes Academy.AssemblyInfo.cs
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\obj\Debug\netcoreapp3.1\Elite Athletes Academy.csproj.CoreCompileInputs.cache
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\obj\Debug\netcoreapp3.1\Elite Athletes Academy.dll
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\obj\Debug\netcoreapp3.1\Elite Athletes Academy.pdb
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\Elite Athletes Academy\obj\Debug\netcoreapp3.1\Elite Athletes Academy.genruntimeconfig.cache
